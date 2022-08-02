@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Adithya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Adithya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adithya-gopakumar-058109244/)]([https://www.linkedin.com/in/adithya-gopakumar-058109244/])
 [![Website Badge](https://img.shields.io/badge/WebSite-Adithya-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Adithya-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
