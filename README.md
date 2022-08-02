@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Adithya-yellow)](https://stackoverflow.com/users/19641192/adithya-gopakumar)
 <!-- [![Website Badge](https://img.shields.io/badge/WebSite-Adithya-green)](#) -->
 
-I'm Full Stack Solution Architect The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm an aspiring Full Stack Developer. The crossover between design and programming has always been of interest to me. I'm currently an intern at Edureka. I have a wide range of skills that include , design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),back-end development using open source technologies (NodeJs, Python) ,database(MongoDB). 
 
 ![Visitor Count](https://profile-counter.glitch.me/AdithyaGopakumar/count.svg)
 
