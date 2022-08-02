@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm an aspiring Full Stack Developer. The crossover between design and programming has always been of interest to me. I'm currently an intern at Edureka. I have a wide range of skills that include front-end development (HTML5, CSS3, Javascript, React), back-end development using open source technologies (NodeJs, Python), database(MongoDB), design (working closely with designers).  
 
-![Visitor Count](https://profile-counter.glitch.me/AdithyaGopakumar/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/AdithyaGopakumar/count.svg)]
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
