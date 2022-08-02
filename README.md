@@ -26,7 +26,7 @@ I'm an aspiring Full Stack Developer. The crossover between design and programmi
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdithyaGopakumar&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AdithyaGopakumar&theme=dark_lover"/>
   </a>
 </div>
 
