@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi Developers 👋
+### Hey there! 👋
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Adithya-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/adithya-gopakumar-058109244/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Adithya-yellow)](https://stackoverflow.com/users/19641192/adithya-gopakumar)
 <!-- [![Website Badge](https://img.shields.io/badge/WebSite-Adithya-green)](#) -->
 
-I'm an aspiring Full Stack Developer. The crossover between design and programming has always been of interest to me. I'm currently an intern at Edureka. I have a wide range of skills that include front-end development (HTML5, CSS3, Javascript, React), back-end development using open source technologies (NodeJs, Python), database(MongoDB), design (working closely with designers).  
+I'm a Junior Software Engineer with a tech toolkit that's as diverse as a rainbow. I rock React.js, Node.js, MongoDB, PostgreSQL, HTML, CSS, JavaScript, Express.js, Bootstrap, AWS, Docker, Stripe, Apache Kafka, and gRPC. From crafting slick user interfaces to taming databases, I've got the code mojo. I'm all about making payments snazzy with Stripe and keeping software chatter efficient with Kafka and gRPC. Let's team up and code up some awesomeness! 🚀  
 
 ![Visitor Count](https://profile-counter.glitch.me/AdithyaGopakumar/count.svg)
 
@@ -34,7 +34,7 @@ I'm an aspiring Full Stack Developer. The crossover between design and programmi
 
 Languages and Tools: 
 
-<img src="https://i.ibb.co/hgPFtPx/html.png" alt="html5" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<img src="https://i.ibb.co/hgPFtPx/html.png" alt="html5" width="40" height="40" /><img src="https://i.ibb.co/TLBvLF6/css.png" alt="css3" width="40" height="40" /> <img src="https://i.ibb.co/M6GZMJQ/bootstrap.png" alt="bootstrap" width="40" height="40" /><img src="https://i.ibb.co/vvXmxm6/javascript.png" alt="javascript" width="40" height="40" /><img src="https://i.ibb.co/wB6N1Lp/nodejs.png" alt="nodejs" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /><img src="https://i.ibb.co/J2jXZYR/mongodb.png" alt="mongodb" width="40" height="40" /><img src="https://i.ibb.co/PGX4vK9/react.png" alt="react" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 ![](https://activity-graph.herokuapp.com/graph?username=AdithyaGopakumar&theme=react-dark&area=true)
 
 
