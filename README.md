@@ -34,7 +34,25 @@ I'm a Junior Software Engineer with a tech toolkit that's as diverse as a rainbo
 
 Languages and Tools: 
 
-<img src="https://i.ibb.co/hgPFtPx/html.png" alt="html5" width="40" height="40" /><img src="https://i.ibb.co/TLBvLF6/css.png" alt="css3" width="40" height="40" /> <img src="https://i.ibb.co/M6GZMJQ/bootstrap.png" alt="bootstrap" width="40" height="40" /><img src="https://i.ibb.co/vvXmxm6/javascript.png" alt="javascript" width="40" height="40"/>     <img src="https://i.ibb.co/wB6N1Lp/nodejs.png" alt="nodejs" width="40" height="40" /><img src="https://i.ibb.co/xJ21BVN/express.png" alt="express" width="40" height="40" /><img src="https://i.ibb.co/J2jXZYR/mongodb.png" alt="mongodb" width="40" height="40" /><img src="https://i.ibb.co/PGX4vK9/react.png" alt="react" width="40" height="40" /><img src="https://i.ibb.co/XJxF6Mn/Redux.png" alt="redux" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /><img src="https://i.ibb.co/Sm89775/Python-logo.png" alt="python" width="40" height="40" /><img src="https://i.ibb.co/2PRMTZx/Amazon-Web-Services.png" alt="aws" width="40" height="40" /><img src="https://i.ibb.co/Ns5mLc3/postgresql-vertical-logo-icon.png" alt="postgreSQL" width="40" height="40" /><img src="https://i.ibb.co/09tfvGQ/docker-logo.webp" alt="docker" width="40" height="40" /><img src="https://i.ibb.co/g7b0mKC/Stripe.png" alt="stripe" width="40" height="40" /><img src="https://i.ibb.co/phWHYJM/Apache-kafka-svg.png" alt="kafka" width="40" height="40" /><img src="https://i.ibb.co/ZX1Dcn7/grpc-icon.png" alt="gRPC" width="40" height="40" />
+<img src="https://i.ibb.co/hgPFtPx/html.png" alt="html5" width="40" height="40" />
+<img src="https://i.ibb.co/TLBvLF6/css.png" alt="css3" width="40" height="40" />
+<img src="https://i.ibb.co/M6GZMJQ/bootstrap.png" alt="bootstrap" width="40" height="40" />
+<img src="https://i.ibb.co/vvXmxm6/javascript.png" alt="javascript" width="40" height="40"/>
+<img src="https://i.ibb.co/wB6N1Lp/nodejs.png" alt="nodejs" width="40" height="40" />
+<img src="https://i.ibb.co/xJ21BVN/express.png" alt="express" width="40" height="40" />
+<img src="https://i.ibb.co/J2jXZYR/mongodb.png" alt="mongodb" width="40" height="40" />
+<img src="https://i.ibb.co/PGX4vK9/react.png" alt="react" width="40" height="40" />
+<img src="https://i.ibb.co/XJxF6Mn/Redux.png" alt="redux" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+<img src="https://i.ibb.co/Sm89775/Python-logo.png" alt="python" width="40" height="40" />
+<img src="https://i.ibb.co/2PRMTZx/Amazon-Web-Services.png" alt="aws" width="40" height="40" />
+<img src="https://i.ibb.co/Ns5mLc3/postgresql-vertical-logo-icon.png" alt="postgreSQL" width="40" height="40" />
+<img src="https://i.ibb.co/09tfvGQ/docker-logo.webp" alt="docker" width="40" height="40" />
+<img src="https://i.ibb.co/g7b0mKC/Stripe.png" alt="stripe" width="40" height="40" />
+<img src="https://i.ibb.co/G5q90nM/2048px-Graph-QL-Logo-svg.png" alt="graphql" width="40" height="40" />
+<img src="https://i.ibb.co/t38KTrS/nestjs-logo-09342-F76-C0-seeklogo-com.png" alt="nestjs" width="40" height="40" />
+<!--<img src="https://i.ibb.co/phWHYJM/Apache-kafka-svg.png" alt="kafka" width="40" height="40" />-->
+<!--<img src="https://i.ibb.co/ZX1Dcn7/grpc-icon.png" alt="gRPC" width="40" height="40" />-->
 ![](https://activity-graph.herokuapp.com/graph?username=AdithyaGopakumar&theme=react-dark&area=true)
 
 
