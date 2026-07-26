@@ -51,12 +51,16 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
         <sub><b>Express</b></sub>
       </td>
       <td align="center" valign="top" width="95">
-        <img src="https://skillicons.dev/icons?i=nest&theme=dark" width="50" height="50" alt="NestJS" /><br />
-        <sub><b>NestJS</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" alt="Socket.io" /><br />
+        <sub><b>Socket.io</b></sub>
       </td>
       <td align="center" valign="top" width="95">
         <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50" height="50" alt="Python" /><br />
         <sub><b>Python</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50" height="50" alt="FastAPI" /><br />
+        <sub><b>FastAPI</b></sub>
       </td>
       <td align="center" valign="top" width="95">
         <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50" height="50" alt="Flask" /><br />
@@ -140,6 +144,14 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
         <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="50" height="50" alt="Redis" /><br />
         <sub><b>Redis</b></sub>
       </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" width="50" height="50" alt="Elasticsearch" /><br />
+        <sub><b>Elasticsearch</b></sub>
+      </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://icon.horse/icon/pinecone.io" width="50" height="50" alt="Pinecone" /><br />
+        <sub><b>Pinecone</b></sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -164,8 +176,8 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
         <sub><b>Git</b></sub>
       </td>
       <td align="center" valign="top" width="100">
-        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50" height="50" alt="GitHub Actions" /><br />
-        <sub><b>Actions</b></sub>
+        <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="50" height="50" alt="Kubernetes" /><br />
+        <sub><b>Kubernetes</b></sub>
       </td>
       <td align="center" valign="top" width="100">
         <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" height="50" alt="Postman" /><br />
@@ -187,20 +199,8 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
         <sub><b>Python</b></sub>
       </td>
       <td align="center" valign="top" width="95">
-        <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50" height="50" alt="PyTorch" /><br />
-        <sub><b>PyTorch</b></sub>
-      </td>
-      <td align="center" valign="top" width="95">
-        <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="50" height="50" alt="TensorFlow" /><br />
-        <sub><b>TensorFlow</b></sub>
-      </td>
-      <td align="center" valign="top" width="95">
         <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50" height="50" alt="Scikit-Learn" /><br />
         <sub><b>Scikit-Learn</b></sub>
-      </td>
-      <td align="center" valign="top" width="95">
-        <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="50" height="50" alt="OpenCV" /><br />
-        <sub><b>OpenCV</b></sub>
       </td>
       <td align="center" valign="top" width="95">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /><br />
@@ -211,8 +211,30 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
         <sub><b>NumPy</b></sub>
       </td>
       <td align="center" valign="top" width="95">
-        <img src="https://img.icons8.com/color/96/openai.png" width="50" height="50" alt="OpenAI" /><br />
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="50" height="50" alt="OpenAI" /><br />
         <sub><b>OpenAI</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="95">
+        <img src="https://cdn.simpleicons.org/langchain/white" width="50" height="50" alt="LangChain" /><br />
+        <sub><b>LangChain</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph.png" width="50" height="50" alt="LangGraph" /><br />
+        <sub><b>LangGraph</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langsmith.png" width="50" height="50" alt="LangSmith" /><br />
+        <sub><b>LangSmith</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://api.iconify.design/logos:google-gemini.svg" width="50" height="50" alt="Gemini" /><br />
+        <sub><b>Gemini</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face" /><br />
+        <sub><b>Hugging Face</b></sub>
       </td>
     </tr>
   </table>
@@ -240,6 +262,10 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
       <td align="center" valign="top" width="105">
         <img src="https://api.iconify.design/lucide:server-cog.svg?color=%238B5CF6" width="48" height="48" alt="MCP Servers" /><br />
         <sub><b>MCP Servers</b></sub>
+      </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" width="48" height="48" alt="GitHub Copilot" /><br />
+        <sub><b>Copilot</b></sub>
       </td>
     </tr>
   </table>
