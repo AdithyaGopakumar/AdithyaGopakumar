@@ -220,6 +220,33 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
 
 <br />
 
+<!-- 6. AI Tools & Coding Agents -->
+<div align="center">
+  <h3>⚡ AI Tools & Coding Agents</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top" width="105">
+        <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" width="48" height="48" alt="Claude Code" /><br />
+        <sub><b>Claude Code</b></sub>
+      </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/antigravity.png" width="48" height="48" alt="Antigravity" /><br />
+        <sub><b>Antigravity</b></sub>
+      </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23412991" width="48" height="48" alt="Codex" /><br />
+        <sub><b>Codex</b></sub>
+      </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://api.iconify.design/lucide:server-cog.svg?color=%238B5CF6" width="48" height="48" alt="MCP Servers" /><br />
+        <sub><b>MCP Servers</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
 ---
 
 ### 🏆 GitHub Trophies
