@@ -1,30 +1,28 @@
-<!-- Header Banner -->
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Adithya%20Gopakumar&fontSize=42&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descAlignY=62&descAlign=50" alt="Header Banner" width="100%" />
-  
-  <br />
+  <!-- <h1>⚡ Adithya Gopakumar ⚡</h1> -->
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+%26+AI+Software+Engineer;React+%7C+Node.js+%7C+Python+%7C+AWS;Building+Scalable+Microservices+%26+LLM+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=Full-Stack+%26+AI+Software+Engineer;Building+Scalable+Microservices+%26+LLM+Apps;Node.js+%7C+Python+%7C+AWS+%7C+React+%7C+Agentic-AI-frameworks" alt="Typing SVG" />
   </a>
 
-  <br /><br />
+  <br />
 
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/adithya-gopakumar-058109244/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/19641192/adithya-gopakumar">
+  <!-- <a href="https://stackoverflow.com/users/19641192/adithya-gopakumar">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-  </a>
-  <a href="mailto:adithyagopakumar@gmail.com">
+  </a> -->
+  <a href="mailto:adithyagopa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br />
 
-### 🌟 Hey there! Welcome to my GitHub profile 👋
+### 🌟 Hey there! 👋
 
 I'm a **Full-Stack & AI Software Engineer** with a passion for building high-performance web applications, scalable backend microservices, resilient distributed architecture, and cutting-edge AI integrations.
 
@@ -35,68 +33,200 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
 
 ---
 
+### 🛠️ Languages & Technologies
+
+<!-- <br /> -->
+
+<!-- 1. Backend Development & Microservices -->
+<div align="center">
+  <h3>⚙️ Backend Development & Microservices</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50" alt="Node.js" /><br />
+        <sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" height="50" alt="Express" /><br />
+        <sub><b>Express</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=nest&theme=dark" width="50" height="50" alt="NestJS" /><br />
+        <sub><b>NestJS</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50" height="50" alt="Python" /><br />
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50" height="50" alt="Flask" /><br />
+        <sub><b>Flask</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="50" height="50" alt="GraphQL" /><br />
+        <sub><b>GraphQL</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="50" height="50" alt="Kafka" /><br />
+        <sub><b>Kafka</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="50" height="50" alt="gRPC" /><br />
+        <sub><b>gRPC</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- 2. Frontend Development -->
+<div align="center">
+  <h3>🎨 Frontend Development</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" height="50" alt="React" /><br />
+        <sub><b>React</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" height="50" alt="Next.js" /><br />
+        <sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="50" height="50" alt="Redux" /><br />
+        <sub><b>Redux</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" height="50" alt="TypeScript" /><br />
+        <sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" height="50" alt="JavaScript" /><br />
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50" alt="HTML5" /><br />
+        <sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50" alt="CSS3" /><br />
+        <sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" height="50" alt="Tailwind" /><br />
+        <sub><b>Tailwind</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- 3. Databases & Storage -->
+<div align="center">
+  <h3>🛢️ Databases & Storage</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top" width="105">
+        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50" height="50" alt="PostgreSQL" /><br />
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" height="50" alt="MongoDB" /><br />
+        <sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" valign="top" width="105">
+        <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="50" height="50" alt="Redis" /><br />
+        <sub><b>Redis</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- 4. Cloud & DevOps -->
+<div align="center">
+  <h3>🚀 Cloud & DevOps</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top" width="100">
+        <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50" height="50" alt="AWS" /><br />
+        <sub><b>AWS</b></sub>
+      </td>
+      <td align="center" valign="top" width="100">
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" height="50" alt="Docker" /><br />
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" valign="top" width="100">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git" /><br />
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" valign="top" width="100">
+        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50" height="50" alt="GitHub Actions" /><br />
+        <sub><b>Actions</b></sub>
+      </td>
+      <td align="center" valign="top" width="100">
+        <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" height="50" alt="Postman" /><br />
+        <sub><b>Postman</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- 5. AI & Machine Learning -->
+<div align="center">
+  <h3>🤖 AI & Machine Learning</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50" height="50" alt="Python" /><br />
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50" height="50" alt="PyTorch" /><br />
+        <sub><b>PyTorch</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="50" height="50" alt="TensorFlow" /><br />
+        <sub><b>TensorFlow</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50" height="50" alt="Scikit-Learn" /><br />
+        <sub><b>Scikit-Learn</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="50" height="50" alt="OpenCV" /><br />
+        <sub><b>OpenCV</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /><br />
+        <sub><b>Pandas</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" /><br />
+        <sub><b>NumPy</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://img.icons8.com/color/96/openai.png" width="50" height="50" alt="OpenAI" /><br />
+        <sub><b>OpenAI</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://trophy.benkou.dev/?username=AdithyaGopakumar&theme=onedark&column=6&margin-w=15&margin-h=15" alt="Adithya's GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 🛠️ Languages & Technologies
-
-#### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ Backend Development & Microservices
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
-
-#### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-#### 🛢️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### 🚀 DevOps, Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br />
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,nodejs,express,nest,py,flask,graphql,postgres,mongodb,redis,aws,docker,git,postman" alt="SkillIcons" />
   </a>
 </div>
 
