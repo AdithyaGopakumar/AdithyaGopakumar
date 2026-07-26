@@ -1,40 +1,133 @@
-<!-- ### Hi there 👋 -->
-<!--
-**AdithyaGopakumar/AdithyaGopakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Adithya%20Gopakumar&fontSize=42&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descAlignY=62&descAlign=50" alt="Header Banner" width="100%" />
+  
+  <br />
 
-### Hey there! 👋
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+%26+AI+Software+Engineer;React+%7C+Node.js+%7C+Python+%7C+AWS;Building+Scalable+Microservices+%26+LLM+Apps" alt="Typing SVG" />
+  </a>
 
-<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Adithya-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/adithya-gopakumar-058109244/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Adithya-yellow)](https://stackoverflow.com/users/19641192/adithya-gopakumar)
-<!-- [![Website Badge](https://img.shields.io/badge/WebSite-Adithya-green)](#) -->
+  <br /><br />
 
-I'm a Junior Software Engineer with a tech toolkit that's as diverse as a rainbow. I rock React.js, Node.js, MongoDB, PostgreSQL, HTML, CSS, JavaScript, Express.js, Bootstrap, AWS, Docker, Stripe, Apache Kafka, and gRPC. From crafting slick user interfaces to taming databases, I've got the code mojo. I'm all about making payments snazzy with Stripe and keeping software chatter efficient with Kafka and gRPC. Let's team up and code up some awesomeness! 🚀  
-
-![Visitor Count](https://profile-counter.glitch.me/AdithyaGopakumar/count.svg)
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdithyaGopakumar&theme=dark_lover"/>
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/adithya-gopakumar-058109244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/19641192/adithya-gopakumar">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="mailto:adithyagopakumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
+<br />
 
+### 🌟 Hey there! Welcome to my GitHub profile 👋
 
-<h4>Languages and Tools:</h4>
+I'm a **Full-Stack & AI Software Engineer** with a passion for building high-performance web applications, scalable backend microservices, resilient distributed architecture, and cutting-edge AI integrations.
 
-<img src="https://i.ibb.co/hgPFtPx/html.png" alt="html5" width="40" height="40" /><img src="https://i.ibb.co/TLBvLF6/css.png" alt="css3" width="40" height="40" /><img src="https://i.ibb.co/M6GZMJQ/bootstrap.png" alt="bootstrap" width="40" height="40" /><img src="https://i.ibb.co/vvXmxm6/javascript.png" alt="javascript" width="40" height="40"/><img src="https://i.ibb.co/wB6N1Lp/nodejs.png" alt="nodejs" width="40" height="40" /><img src="https://i.ibb.co/xJ21BVN/express.png" alt="express" width="40" height="40" /><img src="https://i.ibb.co/J2jXZYR/mongodb.png" alt="mongodb" width="40" height="40" /><img src="https://i.ibb.co/PGX4vK9/react.png" alt="react" width="40" height="40" /><img src="https://i.ibb.co/XJxF6Mn/Redux.png" alt="redux" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /><img src="https://i.ibb.co/xgJrJT6/git.png" alt="git" width="40" height="40" /><img src="https://i.ibb.co/Sm89775/Python-logo.png" alt="python" width="40" height="40" /><img src="https://i.ibb.co/2PRMTZx/Amazon-Web-Services.png" alt="aws" width="40" height="40" /><img src="https://i.ibb.co/Ns5mLc3/postgresql-vertical-logo-icon.png" alt="postgreSQL" width="40" height="40" /><img src="https://i.ibb.co/09tfvGQ/docker-logo.webp" alt="docker" width="40" height="40" /><img src="https://i.ibb.co/g7b0mKC/Stripe.png" alt="stripe" width="40" height="40" /><img src="https://i.ibb.co/G5q90nM/2048px-Graph-QL-Logo-svg.png" alt="graphql" width="40" height="40" /><img src="https://i.ibb.co/t38KTrS/nestjs-logo-09342-F76-C0-seeklogo-com.png" alt="nestjs" width="40" height="40" /><img src="https://i.ibb.co/phWHYJM/Apache-kafka-svg.png" alt="kafka" width="40" height="40" /><img src="https://i.ibb.co/ZX1Dcn7/grpc-icon.png" alt="gRPC" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-![](https://activity-graph.herokuapp.com/graph?username=AdithyaGopakumar&theme=react-dark&area=true)
+- 🔭 **Currently Working On:** Scalable backend architectures, real-time streaming, and generative AI systems.
+- 🌱 **Learning & Exploring:** Large Language Models (LLMs), LangChain, advanced DevOps, and Kubernetes.
+- 💬 **Ask Me About:** React, Node.js, Python, PostgreSQL, MongoDB, Docker, AWS, Kafka, gRPC & AI/ML.
+- 👯 **Looking to Collaborate On:** Open-source projects, AI applications, and distributed full-stack systems.
 
+---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.benkou.dev/?username=AdithyaGopakumar&theme=onedark&column=6&margin-w=15&margin-h=15" alt="Adithya's GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Languages & Technologies
+
+#### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend Development & Microservices
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
+
+#### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### 🛢️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🚀 DevOps, Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br />
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,nodejs,express,nest,py,flask,graphql,postgres,mongodb,redis,aws,docker,git,postman" alt="SkillIcons" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaGopakumar&theme=onedark" alt="Adithya's GitHub Stats" height="180" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdithyaGopakumar&theme=onedark" alt="Most Used Languages" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/convincely/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AdithyaGopakumar&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 📅 Contribution Grid
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/AdithyaGopakumar" alt="Adithya's Contribution Grid" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdithyaGopakumar&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+</div>
