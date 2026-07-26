@@ -51,10 +51,6 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
         <sub><b>Express</b></sub>
       </td>
       <td align="center" valign="top" width="95">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" alt="Socket.io" /><br />
-        <sub><b>Socket.io</b></sub>
-      </td>
-      <td align="center" valign="top" width="95">
         <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50" height="50" alt="Python" /><br />
         <sub><b>Python</b></sub>
       </td>
@@ -77,6 +73,10 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
       <td align="center" valign="top" width="95">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="50" height="50" alt="gRPC" /><br />
         <sub><b>gRPC</b></sub>
+      </td>
+      <td align="center" valign="top" width="95">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" alt="Socket.io" /><br />
+        <sub><b>Socket.io</b></sub>
       </td>
     </tr>
   </table>
@@ -193,50 +193,42 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
 <div align="center">
   <h3>🤖 AI & Machine Learning</h3>
   <table align="center">
-    <tr>
-      <td align="center" valign="top" width="95">
-        <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50" height="50" alt="Python" /><br />
-        <sub><b>Python</b></sub>
-      </td>
-      <td align="center" valign="top" width="95">
-        <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50" height="50" alt="Scikit-Learn" /><br />
-        <sub><b>Scikit-Learn</b></sub>
-      </td>
-      <td align="center" valign="top" width="95">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /><br />
-        <sub><b>Pandas</b></sub>
-      </td>
-      <td align="center" valign="top" width="95">
+      <td align="center" valign="top" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" /><br />
         <sub><b>NumPy</b></sub>
       </td>
-      <td align="center" valign="top" width="95">
+      <td align="center" valign="top" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /><br />
+        <sub><b>Pandas</b></sub>
+      </td>
+      <td align="center" valign="top" width="100">
+        <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50" height="50" alt="Scikit-Learn" /><br />
+        <sub><b>Scikit-Learn</b></sub>
+      </td>
+      <td align="center" valign="top" width="100">
         <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" width="50" height="50" alt="OpenAI" /><br />
         <sub><b>OpenAI</b></sub>
       </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="95">
+      <td align="center" valign="top" width="100">
         <img src="https://cdn.simpleicons.org/langchain/white" width="50" height="50" alt="LangChain" /><br />
         <sub><b>LangChain</b></sub>
       </td>
-      <td align="center" valign="top" width="95">
+      <td align="center" valign="top" width="100">
         <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph.png" width="50" height="50" alt="LangGraph" /><br />
         <sub><b>LangGraph</b></sub>
       </td>
-      <td align="center" valign="top" width="95">
+      <td align="center" valign="top" width="100">
         <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langsmith.png" width="50" height="50" alt="LangSmith" /><br />
         <sub><b>LangSmith</b></sub>
       </td>
-      <td align="center" valign="top" width="95">
+      <td align="center" valign="top" width="100">
         <img src="https://api.iconify.design/logos:google-gemini.svg" width="50" height="50" alt="Gemini" /><br />
         <sub><b>Gemini</b></sub>
       </td>
-      <td align="center" valign="top" width="95">
+      <td align="center" valign="top" width="100">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face" /><br />
         <sub><b>Hugging Face</b></sub>
       </td>
-    </tr>
   </table>
 </div>
 
@@ -303,11 +295,11 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
 
 ---
 
-### 📅 Contribution Grid
+<!-- <h2>📅 Contribution Grid</h2> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://ghchart.rshah.org/AdithyaGopakumar" alt="Adithya's Contribution Grid" width="100%" />
-</div>
+</div> -->
 
 <br />
 
