@@ -82,7 +82,7 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
   </table>
 </div>
 
-<br />
+<!-- <br /> -->
 
 <!-- 2. Frontend Development -->
 <div align="center">
@@ -125,7 +125,7 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
   </table>
 </div>
 
-<br />
+<!-- <br /> -->
 
 <!-- 3. Databases & Storage -->
 <div align="center">
@@ -156,7 +156,7 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
   </table>
 </div>
 
-<br />
+<!-- <br /> -->
 
 <!-- 4. Cloud & DevOps -->
 <div align="center">
@@ -187,7 +187,7 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
   </table>
 </div>
 
-<br />
+<!-- <br /> -->
 
 <!-- 5. AI & Machine Learning -->
 <div align="center">
@@ -232,7 +232,7 @@ I'm a **Full-Stack & AI Software Engineer** with a passion for building high-per
   </table>
 </div>
 
-<br />
+<!-- <br /> -->
 
 <!-- 6. AI Tools & Coding Agents -->
 <div align="center">
