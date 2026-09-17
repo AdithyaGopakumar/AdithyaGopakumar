@@ -3,8 +3,8 @@
   <!-- <h1>⚡ Adithya Gopakumar ⚡</h1> -->
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=Full-Stack+%26+AI+Software+Engineer;Building+Scalable+Microservices+%26+LLM+Apps;Node.js+%7C+Python+%7C+AWS+%7C+React+%7C+Agentic-AI-frameworks" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=Agentic+AI+%26+Software+Engineer;Building+Intelligent+AI+Systems+%26+Advanced+RAG;Scalable+Backend+%26+Microservice+Architectures;Python+%7C+FastAPI+%7C+Node.js+%7C+AWS+%7C+LLMs+%7C+LangGraph" alt="Typing SVG" />
+</a>
 
   <br />
 
@@ -24,12 +24,12 @@
 
 ### 🌟 Hey there! 👋
 
-I'm a **Full-Stack & AI Software Engineer** with a passion for building high-performance web applications, scalable backend microservices, resilient distributed architecture, and cutting-edge AI integrations.
+I'm a **Software Engineer** focused on Agentic AI Engineering, AI Systems, Backend Engineering, and Distributed Architecture, with experience building intelligent multi-agent workflows, advanced RAG systems, scalable backend with microservice architectures, cloud-native applications, and production-ready AI solutions.
 
-- 🔭 **Currently Working On:** Scalable backend architectures, real-time streaming, and generative AI systems.
-- 🌱 **Learning & Exploring:** Large Language Models (LLMs), LangChain, advanced DevOps, and Kubernetes.
-- 💬 **Ask Me About:** React, Node.js, Python, PostgreSQL, MongoDB, Docker, AWS, Kafka, gRPC & AI/ML.
-- 👯 **Looking to Collaborate On:** Open-source projects, AI applications, and distributed full-stack systems.
+- 🔭 **Currently Working On:** Agentic AI systems, advanced RAG architectures, intelligent agent workflows, and scalable distributed backend systems.
+- 🌱 **Learning & Exploring:** LLMs, Agentic AI, LangGraph, advanced RAG & knowledge engineering, vector databases, AI system architecture, and cloud-native technologies.
+- 💬 **Ask Me About:** LLM applications, RAG, Agentic AI engineering, Python, Node.js, React, MongoDB, PostgreSQL, AWS, Kafka, and gRPC.
+- 🏗️ **Engineering Focus:** Designing scalable, reliable, and production-ready systems that bring together AI, backend engineering, distributed architectures, and cloud technologies.
 
 ---
 
